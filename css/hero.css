@@ -1,5 +1,5 @@
 body {
-    font-family: 'End-El-San Logo', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     background-color:rgb(218,207,185);
     padding: 0;
 }
@@ -20,6 +20,11 @@ h1{
     color: #000;
     text-align: left;
    margin-left: -255px;
+}
+
+h1.text{
+    font-size: 40px;
+    font-family: 'Honeypirls Regular', sans-serif;
 }
 
 .header{
