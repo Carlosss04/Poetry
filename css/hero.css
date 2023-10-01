@@ -162,6 +162,7 @@ input[type="submit"]:hover {
 }
 
 .title {
+    font-family: 'Open Sans', sans-serif;
     float: left;
     width: 160px;
     clear: left;
