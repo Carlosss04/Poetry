@@ -19,7 +19,15 @@ body {
 h1{
     color: #000;
     text-align: left;
-   margin-left: -255px;
+    margin-left: -255px;
+    border-top: 2px solid #7a4b00df;
+    border-bottom: 4px solid #794b00;
+    width: 380px;
+    height: 50px;
+    text-align: center;
+    background-color: #ffffff86;
+    border-radius: 20px;
+    padding: 8px;
 }
 
 h1.text{
@@ -36,7 +44,7 @@ h1.text{
 p.intro{
     font-family: 'Open Sans', sans-serif;
     margin: 20px auto 20px auto;
-    margin-left: -255px;
+    margin-left: -250px;
     text-align: left;
     letter-spacing: 1px;
 }
